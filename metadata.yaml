@@ -1,0 +1,46 @@
+_repo: Anecdotal-Recollections-of-the-Congress-of-Vienna_54061
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vandam, Albert D. (Albert Dresden)
+    alias: Vandam, Albert Dresden
+    birthdate: 1843
+    deathdate: 1903
+    gutenberg_agent_id: '35797'
+    url: http://www.gutenberg.org/2009/agents/35797
+creator:
+  author:
+    agent_name: La Garde-Chambonas, Auguste Louis Charles, Comte de
+    aliases:
+    - Garde-Chambonas, Auguste Louis Charles, comte de la
+    - La Garde, A. (Auguste), comte de
+    - Messence, comte la Garde de
+    birthdate: 1783
+    gutenberg_agent_id: '47686'
+    url: http://www.gutenberg.org/2009/agents/47686
+  editor:
+    agent_name: Fleury, Maurice, comte
+    aliases:
+    - Fleury, Napoléon Maurice Emile, comte
+    - Fleury, comte
+    - Fleury, Napoleon Maurice Emile, comte
+    birthdate: 1856
+    deathdate: 1921
+    gutenberg_agent_id: '43005'
+    url: http://www.gutenberg.org/2009/agents/43005
+description: ''
+gutenberg_issued: '2017-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54061'
+  lccn: 02018890
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Congress of Vienna (1814-1815)'
+- GITenberg
+title: Anecdotal Recollections of the Congress of Vienna
+url: http://www.gutenberg.org/ebooks/54061
