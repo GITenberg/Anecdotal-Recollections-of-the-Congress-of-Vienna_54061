@@ -8,6 +8,9 @@ contributor:
     deathdate: 1903
     gutenberg_agent_id: '35797'
     url: http://www.gutenberg.org/2009/agents/35797
+covers:
+- cover_type: archival
+  image_path: 54061-h/images/cover.jpg
 creator:
   author:
     agent_name: La Garde-Chambonas, Auguste Louis Charles, Comte de
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '43005'
     url: http://www.gutenberg.org/2009/agents/43005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54061#Anecdotal-Recollections-of-the-Congress-of-Vienna
 gutenberg_issued: '2017-01-27'
 gutenberg_type: Text
 identifiers:
